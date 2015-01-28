@@ -318,9 +318,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45497147"
-     inkscape:cx="-531.84525"
-     inkscape:cy="334.82842"
+     inkscape:zoom="1.0568788"
+     inkscape:cx="320.10632"
+     inkscape:cy="276.79218"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -483,10 +483,28 @@
        d="m -739.7125,-389.77219 h -25.286 v -21.83653 l -7.0206,-7.0212 H -829.59 l -7.0207,7.0212 v 21.83653 h -24.6892 l -9.846,153.39276 h 140.6828 l -9.2494,-153.39276 z m -39.3274,0 h -43.5292 v -14.81611 h 43.5292 v 14.81611 z"
        inkscape:connector-curvature="0"
        style="fill:#424a4d;fill-opacity:1;display:inline" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3847-5"
+       y="-301.09125"
+       x="-640.97498"
+       style="font-size:58.33836365px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#424a4d;fill-opacity:1;stroke:none;display:inline;font-family:Lato;-inkscape-font-specification:Lato"
+       xml:space="preserve"><tspan
+         style="font-size:58.33836365px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#424a4d;fill-opacity:1;font-family:Lato;-inkscape-font-specification:Lato"
+         y="-301.09125"
+         x="-640.97498"
+         sodipodi:role="line"
+         id="tspan3866">Store Front</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#f2f2f2;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m -737.28501,-365.25467 c 2.30725,-0.0729 2.71163,32.12622 2.84261,34.50781 l 2.20313,40.06021 c 0.11452,2.08242 -32.33194,14.71829 -58.77978,17.37565 l -82.19151,8.25822 c -2.29683,0.23077 4.64221,-22.13518 4.79409,-24.51551 l 2.42286,-37.97188 c 28.62967,-0.91617 90.91786,-36.52013 128.7086,-37.7145 z"
+       id="rect3850"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssscc" />
     <g
        style="display:inline"
        id="g3944"
-       transform="matrix(1.923225,0,0,1.923225,-128.10647,-218.32501)">
+       transform="matrix(0.94027563,0,0,0.94027563,-471.03904,-266.85076)">
       <g
          style="fill:#ffae44;fill-opacity:1;display:inline"
          transform="matrix(0.58720635,0,0,0.58720635,-624.79627,-87.02263)"
@@ -527,17 +545,5 @@
              sodipodi:role="line">R</tspan></text>
       </g>
     </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3847-5"
-       y="-301.09125"
-       x="-640.97498"
-       style="font-size:58.33836365px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#424a4d;fill-opacity:1;stroke:none;display:inline;font-family:Lato;-inkscape-font-specification:Lato"
-       xml:space="preserve"><tspan
-         style="font-size:58.33836365px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#424a4d;fill-opacity:1;font-family:Lato;-inkscape-font-specification:Lato"
-         y="-301.09125"
-         x="-640.97498"
-         sodipodi:role="line"
-         id="tspan3866">Store Front</tspan></text>
   </g>
 </svg>
