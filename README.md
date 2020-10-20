@@ -1,35 +1,44 @@
-# Restore Commerce Logos and Brand Guidelines
+# Restore Commerce CI Materials and Branding Guidelines
 
 ## Logos
 
 Main logo:
 
-![Restore Commerce](https://raw.githubusercontent.com/restore-commerce/branding/master/restore_commerce_logo.png)
+![Restore Commerce](https://raw.githubusercontent.com/restore-commerce/branding/master/Logo/restore_commerce_logo.png)
+
+![Restore Commerce](https://raw.githubusercontent.com/restore-commerce/branding/master/Logo/restore_commerce_inverse_logo.png)
 
 Square logo:
 
-![Restore Commerce](https://raw.githubusercontent.com/restore-commerce/branding/master/restore_commerce_logo_square.png)
+![Restore Commerce](https://raw.githubusercontent.com/restore-commerce/branding/master/Logo/restore_commerce_logo_square.png)
+
+![Restore Commerce](https://raw.githubusercontent.com/restore-commerce/branding/master/Logo/restore_commerce_inverse_logo_square.png)
 
 There are also color variants such as black/ white, inverse.
-All variants exist as `.png` bitmap and `.svg` vector graphics.
+All variants are available as `.png` bitmap and `.svg` vector graphics.
 
 ## Color Palette
 
 Main brand colors:
 
-- Orange: FFAE44 main
-- Anthracite: 424A4D secondary
+- Orange: `FFAE44` brand accent
+- Anthracite: `424A4D` secondary
 
 Other colors:
 
-- Blue: 46BDF4
-- Green: 93CF36
-- Purple: 8E3483
+- Blue: `46BDF4`
+- Green: `93CF36`
+- Purple: `8E3483`
 
-[See all colors on the color wheel](https://color.adobe.com/create/color-wheel/?base=2&rule=Custom&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=1,0.6823529411764706,0.26666666666666666,0.27450980392156865,0.7411764705882353,0.9568627450980393,0.5764705882352941,0.8117647058823529,0.21176470588235294,0.5568627450980392,0.20392156862745098,0.5137254901960784,0.25882352941176473,0.2901960784313726,0.30196078431372547&swatchOrder=0,1,2,3,4).
+[See all colors on the color wheel](https://color.adobe.com/Restorecommerce-color-theme-16094968).
 
 ## Typography
 
-Logo: Lato
+The following font faces are used:
 
-Page: Muli
+- Logo: Lato
+- Page: Muli
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
